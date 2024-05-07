@@ -20,6 +20,12 @@ These include:
 - First application image will be presented with an enlarged image.
 - All applications will have a link to the deployed application.
 
+## Code Source Repository & Associated Site
+
+Repository location URL: https://github.com/AeroRider66/butter_project2
+
+Webpage URL: https://aerorider66.github.io/butter_project2/
+
 ## Developer's Notes
 
 This application is being deployed with missing acceptance criteria.
